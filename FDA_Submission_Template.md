@@ -1,9 +1,3 @@
-# FDA  Submission
-
-**Your Name:** Mohammad Al-Fetyani
-
-**Name of your Device:** PneumoniaNet 
-
 ## Algorithm Description 
 
 ### 1. General Information
